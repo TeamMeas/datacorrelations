@@ -10,6 +10,6 @@
 - React / Redux
 - D3
 
-[Welcome to the gallram data...](https://teammeas.github.io/data-correlation/)
+[Welcome to the gallram data...](https://teammeas.github.io/datacorrelations/)
 
 Contributors are welcome to join...
